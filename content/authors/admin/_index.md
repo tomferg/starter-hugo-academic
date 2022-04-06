@@ -71,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-Hello! My name is Thomas Ferguson, and I'm currently a postdoctoral researcher at the University of Alberta in Edmonton, Alberta, Canada.
+Hello! My name is Thomas Ferguson, and I'm currently a postdoctoral researcher at the University of Alberta in Edmonton, Alberta, Canada. My research is focused on how we make the decisions we do. More specifically, I'm interested in how people are able to integrate information about complex environments in order to guide their actions, with a particular emphasis on how people learn from feedback. In my research I use neuroimaging (specifically electroencephalography) in conjunction with computational modelling to understand decision making and reinforcement learning. I am also interested in how people find their way around their environment (navigational cognition). Some of my previous work has examined the effects of stress on navigation strategy and performance, and the role of reward learning in navigation.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
