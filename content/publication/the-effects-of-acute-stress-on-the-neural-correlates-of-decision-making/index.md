@@ -31,6 +31,9 @@ abstract: Stress has been defined in many ways and is typically induced as a
   in both the short- and long-term.
 draft: false
 featured: false
+tags:
+  - stress
+  - EEG
 image:
   filename: featured.png
   focal_point: Smart
