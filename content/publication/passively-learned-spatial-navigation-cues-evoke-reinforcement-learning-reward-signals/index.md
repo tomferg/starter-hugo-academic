@@ -4,7 +4,8 @@ title: Passively learned spatial navigation cues evoke reinforcement learning
 publication_types:
   - "2"
 authors:
-  - Admin and Williams
+  - admin
+  - and Williams
   - C.C. and Skelton
   - R.W. and Krigolson O.E.
 doi: 10.1016/j.cognition.2019.03.015
