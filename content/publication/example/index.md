@@ -50,7 +50,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: vangerven2016_1.jpg
+  filename: featured.jpg
 date: 2022-04-27T18:19:18.186Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
