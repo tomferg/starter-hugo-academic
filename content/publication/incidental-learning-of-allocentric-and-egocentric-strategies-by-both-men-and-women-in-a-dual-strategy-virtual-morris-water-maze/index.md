@@ -37,6 +37,9 @@ abstract: In studies of human navigation, an underlying assumption is that, by
   populations.
 draft: false
 featured: false
+tags:
+  - navigation
+  - MWM
 image:
   filename: featured.jpg
   focal_point: Smart
