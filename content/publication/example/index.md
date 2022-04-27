@@ -44,7 +44,7 @@ doi: 10.1016/j.nlm.2016.05.003
 featured: false
 tags: []
 categories:
-  - vanGerven2016
+  - Navigation
 projects: []
 image:
   caption: ""
