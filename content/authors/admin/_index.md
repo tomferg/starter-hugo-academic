@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tfergus2l@ualberta.ca'
+  link: 'mailto:tfergus2@ualberta.ca'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=G6xszi4AAAAJ&hl=en
