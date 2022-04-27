@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Thomas Ferguson, PhD
+title: Thomas Ferguson
 
 # Is this the primary user of the site?
 superuser: true
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:tfergus2l@ualberta.ca'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=G6xszi4AAAAJ&hl=en
@@ -71,7 +71,4 @@ email: ""
 highlight_name: true
 ---
 
-Hello! My name is Thomas Ferguson, and I'm currently a postdoctoral researcher at the University of Alberta in Edmonton, Alberta, Canada. My research is focused on how we make the decisions we do. More specifically, I'm interested in how people are able to integrate information about complex environments in order to guide their actions, with a particular emphasis on how people learn from feedback. In my research I use neuroimaging (specifically electroencephalography) in conjunction with computational modelling to understand decision making and reinforcement learning. I am also interested in how people find their way around their environment (navigational cognition). Some of my previous work has examined the effects of stress on navigation strategy and performance, and the role of reward learning in navigation.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My name is Thomas Ferguson, and I'm currently a postdoctoral researcher at the University of Alberta in Edmonton, Alberta, Canada. My research is focused on how we make the decisions we do. I'm interested in how people are able to integrate information from complex and changing environments in order to guide their actions, with a particular emphasis on how people learn from feedback. In my research I use neuroimaging (specifically electroencephalography) in conjunction with computational modelling to understand decision making, reinforcement learning, and the explore-exploit dilemma. Some of my previous work has examined the effects of stress on navigation strategy and performance, the effect of stress on reinforcement learning, and the role of reinforcement learning in navigation.
