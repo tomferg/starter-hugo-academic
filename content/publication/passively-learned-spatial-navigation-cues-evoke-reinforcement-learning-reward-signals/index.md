@@ -4,10 +4,9 @@ title: Passively learned spatial navigation cues evoke reinforcement learning
 publication_types:
   - "2"
 authors:
-  - admin and Williams
+  - Admin and Williams
   - C.C. and Skelton
-  - R.W. and Krigolson
-  - O.E.
+  - R.W. and Krigolson O.E.
 doi: 10.1016/j.cognition.2019.03.015
 abstract: Since the suggestion by Tolman (1948) that both rodents and humans
   create cognitive maps during navigation, the specifics of how navigators learn
