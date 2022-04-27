@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - Williams
-  - C.C. Skelton
+  - Chad C. Skelton
   - R.W. and Krigolson O.E.
 doi: 10.1016/j.cognition.2019.03.015
 abstract: Since the suggestion by Tolman (1948) that both rodents and humans
