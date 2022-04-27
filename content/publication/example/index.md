@@ -42,9 +42,10 @@ title: Acute stress switches spatial navigation strategy from egocentric to
   allocentric in a virtual Morris water maze
 doi: 10.1016/j.nlm.2016.05.003
 featured: false
-tags: []
-categories:
-  - Navigation
+tags:
+  - navigation
+  - stress
+categories: []
 projects: []
 image:
   caption: ""
