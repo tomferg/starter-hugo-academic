@@ -12,6 +12,7 @@ authors:
   - Krigolson
   - Olave E.
 doi: 10.1016/j.cognition.2019.03.015
+publication: Cognition
 abstract: Since the suggestion by Tolman (1948) that both rodents and humans
   create cognitive maps during navigation, the specifics of how navigators learn
   about their environment has been mired in debate. One facet of this debate is
