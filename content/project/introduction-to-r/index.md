@@ -2,6 +2,8 @@
 title: Introduction to R
 subtitle: A Gentle Introduction
 date: 2020-04-07T01:08:55.876Z
+summary: Provides introductory code for installing packages, loading data, and
+  running very basic statistical analyses.
 draft: false
 featured: false
 tags:
