@@ -1,5 +1,5 @@
 ---
-title: Thomas Ferguson
+title: Thomas Donald Ferguson
 role: Postdoctoral Researcher
 bio: ""
 interests:
