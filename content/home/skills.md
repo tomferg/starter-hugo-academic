@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: R, MATLAB, Python, Git, JASP
+- description: R, MATLAB, Python, Unreal, Git, JASP
   icon: code-branch
   icon_pack: fa
   name: Programming
-- description: Frequentist, Bayesian, GLM, Computational Modelling
+- description: Frequentist, Bayesian, Computational Modelling, Time series
   icon: chart-bar
   icon_pack: fa
-  name: Statistics
+  name: Data Analysis
 - description: EEGLab, Brain Vision, MNE
   icon: brain
   icon_pack: fa
-  name: EEG
+  name: EEG Software
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
