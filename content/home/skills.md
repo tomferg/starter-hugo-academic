@@ -17,16 +17,16 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: R, MATLAB, Python, Git, JASP
-  icon: file-code
+  icon: code-branch
   icon_pack: fa
   name: Programming
 - description: Frequentist, Bayesian, GLM, Computational Modelling
-  icon: chart-line
-  icon_pack: fas
+  icon: chart-bar
+  icon_pack: fa
   name: Statistics
 - description: EEGLab, Brain Vision, MNE
-  icon: camera-retro
-  icon_pack: fas
+  icon: brain
+  icon_pack: fa
   name: EEG
 
 # Uncomment to use emoji icons.
