@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Reinforcement Learning
+    tag: RL
+  - name: EEG
+    tag: EEG
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
