@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: R, MATLAB, Python, Git, JASP
-  icon: f1c9
-  icon_pack: fab
+  icon: file-code
+  icon_pack: fa
   name: Programming
 - description: Frequentist, Bayesian, GLM, Computational Modelling
   icon: chart-line
