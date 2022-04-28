@@ -8,11 +8,11 @@ authors:
   - Elizabeth L.
   - admin
   - Zaman
-  - Andrew
+  - Andrew.
   - Hibbing
-  - Paul
+  - Paul.
   - Izbicki
-  - Patricia
+  - Patricia.
   - Krigolson
   - Olave E.
 doi: 10.1002/brb3.2324
