@@ -18,7 +18,7 @@ social:
     link: https://github.com/tomferg
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/thomas-ferguson-315315252/
 organizations:
   - name: University of Alberta
     url: https://www.ualberta.ca/index.html
