@@ -1,12 +1,13 @@
 ---
 title: Reinforcement Learning Workshop
 subtitle: Given at the University of Victoria
-date: 2022-05-02T01:08:55.876Z
+date: 2023-05-02T01:08:55.876Z
 summary: Provides introductory code for validating a few computational modelling and then applying these models to human choice data
 draft: false
 featured: false
 tags:
-  - Statistics
+  - Reinforcement Learning
+  - Computational Modelling
 links:
   - icon_pack: fab
     url: https://github.com/tomferg/RL_Workshop_2023
