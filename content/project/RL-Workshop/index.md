@@ -1,16 +1,15 @@
 ---
-title: Introduction to R
-subtitle: A Gentle Introduction
-date: 2020-04-07T01:08:55.876Z
-summary: Provides introductory code for installing packages, loading data, and
-  running very basic statistical analyses.
+title: Reinforcement Learning Workshop
+subtitle: Given at the University of Victoria
+date: 2022-05-02T01:08:55.876Z
+summary: Provides introductory code for validating a few computational modelling and then applying these models to human choice data
 draft: false
 featured: false
 tags:
   - Statistics
 links:
   - icon_pack: fab
-    url: https://github.com/tomferg/PSYC_300
+    url: https://github.com/tomferg/RL_Workshop_2023
     name: Github Page
     icon: github
 image:
@@ -18,16 +17,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-These R scripts provide a high level summary of using R to analyze data.
+Matlab scripts to validate and test computational models of human choice data
 
-Nothing too extensive, mostly a series of scripts (well, lectures) to do the following:
+A series of Matlab scripts, functions, and some summary slides which highlight how to:
 
-* Load data into R
-* Load packages
-* Do simple visualization
-* Run simple statistics and tests
-* Provides fake data to analyze
+* Validate a series of Reinforcement Learning models
+* Tune model parameters
+* Conduct both automatic (using FMINCON) and manual log likelihood estimation
+* Simulate human performance
+* Find the best fitting model for human choice data
 
-There is also some sample powerpoint slides which work through running an ANOVA and some direct group comparisons.
+Powerpoint slides provide the theoretical background (some ideas adapted from Lewandowsky & Farell - Computational Modelling of Cognition) of computational modelling
 
-Made for PSYC 300A and 300B at the University of Victoria. Completed while I was both teaching tutorials and the course itself.
+Made for a workshop hosted at the University of Victoria in 2023.
