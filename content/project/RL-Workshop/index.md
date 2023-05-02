@@ -14,7 +14,7 @@ links:
     name: Github Page
     icon: github
 image:
-  filename: RLWorkshop.PNG
+  filename: RLWorkshop.png
   focal_point: Smart
   preview_only: false
 ---
