@@ -6,7 +6,7 @@ summary: Provides introductory code for validating a few computational modelling
 draft: false
 featured: false
 tags:
-  - Reinforcement Learning
+  - Matlab
   - Computational Modelling
 links:
   - icon_pack: fab
