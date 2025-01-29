@@ -1,6 +1,6 @@
 ---
 title: Bandit Task Solutions
-subtitle: Given at the University of Alberta
+subtitle: Some simple algorithms to solve a not so simple problem
 date: 2021-01-01
 summary: Matlab scripts for Bandit Task algorithms
 draft: false
