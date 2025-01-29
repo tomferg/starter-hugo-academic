@@ -37,6 +37,8 @@ content:
     tag: Python
   - name: R
     tag: R
+  - name: Research
+    tag: Research
 
     
 design:
