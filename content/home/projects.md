@@ -31,7 +31,7 @@ content:
     tag: R
   - name: Computational Modelling
     tag: Computational Modelling
- - name: Python
+  - name: Python
     tag: Python
   - name: Matlab
     tag: Matlab
