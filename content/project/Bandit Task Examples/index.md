@@ -14,7 +14,7 @@ links:
     name: Github Page
     icon: github
 image:
-  filename: featured.png
+  filename: bandit.jpg
   focal_point: Smart
   preview_only: false
 ---
