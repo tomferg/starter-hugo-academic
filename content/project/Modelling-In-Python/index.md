@@ -6,7 +6,7 @@ summary: Provides a Jupyter notebook of a tutorial to use computational models t
 draft: false
 featured: false
 tags:
-  - Reinforcement Learning
+  - Python
   - Computational Modelling
 links:
   - icon_pack: fab
