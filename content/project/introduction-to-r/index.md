@@ -7,7 +7,7 @@ summary: Provides introductory code for installing packages, loading data, and
 draft: false
 featured: false
 tags:
-  - Statistics
+  - R
   - Data Analysis
 links:
   - icon_pack: fab
