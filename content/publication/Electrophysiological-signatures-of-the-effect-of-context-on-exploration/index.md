@@ -14,8 +14,8 @@ publication: Brain Research
 abstract: Humans are excellent at modifying our behaviour depending on context. 
   For example, humans will change how they explore when losses are possible compared
   to when they are not possible. However, it remains unclear what specific cognitive 
-  and neural processes are modulated when exploring in different contexts. 
-  Here, we had participants learn within two different contexts: in one the 
+  and neural processes are modulated when exploring in different contexts. Here,
+  we had participants learn within two different contexts - in one the 
   participants could lose points while in the other the participants could not. 
   Our goal was to determine how the inclusion of losses impacted human exploratory 
   behaviour (experiment one), and whether we could explain the neural basis of 
