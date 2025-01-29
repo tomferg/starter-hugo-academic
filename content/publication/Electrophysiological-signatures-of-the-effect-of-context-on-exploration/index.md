@@ -35,7 +35,8 @@ abstract: Humans are excellent at modifying our behaviour depending on context.
 draft: false
 featured: false
 tags:
-  - stress
+  - RL
+  - Computational Modelling
   - EEG
 image:
   filename: featured.png
