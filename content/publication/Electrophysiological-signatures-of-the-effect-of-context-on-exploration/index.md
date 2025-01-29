@@ -41,5 +41,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2025-25-01
+date: 2025-01-25
 ---
