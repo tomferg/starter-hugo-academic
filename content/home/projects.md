@@ -27,17 +27,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: R
-    tag: R
   - name: Computational Modelling
     tag: Computational Modelling
-  - name: Python
-    tag: Python
-  - name: Matlab
-    tag: Matlab
   - name: Data Analysis
     tag: Data Analysis
+  - name: Matlab
+    tag: Matlab
+  - name: Python
+    tag: Python
+  - name: R
+    tag: R
 
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
