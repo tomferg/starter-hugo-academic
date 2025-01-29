@@ -1,6 +1,6 @@
 ---
 title: Thomas Donald Ferguson
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher, Data Analyst, Computational Neuroscientist
 bio: ""
 interests:
   - Cognitive Neuroscience
@@ -20,8 +20,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/thomas-ferguson-315315252/
 organizations:
-  - name: University of Alberta
+  - name: University of Alberta, Department of  Computing Science
     url: https://www.ualberta.ca/index.html
+  - name: Alberta Machine Intelligence Institute
+    url: https://www.amii.ca/
   - name: Representations Lab
     url: https://sites.google.com/ualberta.ca/representationslab/home
   - name: Reinforcement Learning and Artifical Intelligence Lab
