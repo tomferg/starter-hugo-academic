@@ -8,6 +8,7 @@ draft: false
 featured: false
 tags:
   - Statistics
+  - Data Analysis
 links:
   - icon_pack: fab
     url: https://github.com/tomferg/PSYC_300
