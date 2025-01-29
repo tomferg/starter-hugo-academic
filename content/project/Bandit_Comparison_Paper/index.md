@@ -27,6 +27,5 @@ This repository contains:
 * Code to fit the models used in the paper
 * Code to classify trials as exploration or exploitation 
 * Code is adopted to work in both stationary and non-stationary environments
-* Paper was published in Computational Brain and Behaviour in 2023
 
-Made at the University of Alberta, 2023
+Paper was published in Computational Brain and Behaviour in 2023. Made at the University of Alberta, 2023
